@@ -7,5 +7,4 @@ i know python, javascript, php, and some luau
 
 
 currently working on:
-GBot,
-Lecre+
+GBot
